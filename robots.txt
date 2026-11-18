@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://areennajd.com.sa/sitemap.xml
